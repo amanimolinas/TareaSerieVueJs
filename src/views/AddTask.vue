@@ -86,7 +86,7 @@ export default {
     padding: 8px 12px;
     border: none;
     border-radius: 4px;
-    background-color: #007bff;
+    background-color: #c931c9;
     color: white;
     cursor: pointer;
 }
